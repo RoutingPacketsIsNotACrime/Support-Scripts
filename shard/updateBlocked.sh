@@ -31,4 +31,4 @@ gunzip /tmp/export.csv.gz
 cat export.csv | grep blocked | cut -d "," -f 1 | sort | uniq > /tmp/blocked
 
 #Import the new details to memcache
-php /tmp/blockedBlockedMemcache.php
+php /tmp/updateBlockedMemcache.php
