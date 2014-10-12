@@ -256,9 +256,6 @@ ________                     .______ ___                    .___
     
     $DOIP = "";
 
-    $DOjson['status'] = 'OK';
-    $DOjson['droplet']['id'] = 2779505;
-
     if($DOjson['status'] == 'OK')
     {
         $dropletOptions = array('client_id' => $DIGITALOCEAN_CLIENTID, 'api_key' => $DIGITALOCEAN_APIKEY);
