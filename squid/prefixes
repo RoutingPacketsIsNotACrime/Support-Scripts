@@ -1,0 +1,731 @@
+ BT  AS5400
+31.11.58.0/24   BT DCS Niewegein Data Centre Netherlands
+62.5.0.0/17 British Telecommunications plc Sweden
+62.102.0.0/17   British Telecommunications plc European Union
+62.134.0.0/16   British Telecommunications plc European Union
+62.172.0.0/21   PROVIDER United Kingdom
+62.173.192.0/18 British Telecommunications plc United Kingdom
+62.180.0.0/16   British Telecommunications plc European Union
+77.74.154.0/23  Exide Technologies France
+77.74.156.0/23  Exide Technologies France
+80.70.168.0/21  Fujitsu Technology Solutions , Augsburg DE. Germany
+82.138.160.0/19 Amcor Flexibles Finland OY European Union
+82.150.0.0/19   British Telecommunications plc European Union
+82.150.17.0/24  Valeo European Union
+85.235.109.0/24 DMZ at Zeebrugge. United Kingdom
+90.152.0.0/17   Regus Management Limited United Kingdom
+91.194.202.0/23 Council of the European Union Belgium
+95.175.192.0/19 Regus Management Limited United Kingdom
+132.244.64.0/20 Rolls-Royce plc United Kingdom
+139.145.0.0/16  Aker Maritime Norway
+144.176.0.0/16  AKER SOLUTIONS ASA Norway
+144.177.128.0/22    AKER SOLUTIONS ASA Norway
+144.179.0.0/16  AKER SOLUTIONS ASA Norway
+144.180.0.0/16  AKER SOLUTIONS ASA Norway
+144.181.0.0/16  AKER SOLUTIONS ASA Norway
+145.69.0.0/16   Ministerie van Economische Zaken Netherlands
+146.224.0.0/16  Norwegian Contractors Norway
+149.236.0.0/17  Bruker Analytische Messtechnik GmbH, Rheinstetten Germany
+149.236.128.0/19    Bruker Analytische Messtechnik GmbH, Rheinstetten Germany
+149.236.192.0/18    Bruker Analytische Messtechnik GmbH, Rheinstetten Germany
+155.209.0.0/16  AKER SOLUTIONS AS Norway
+157.30.41.0/24  Freeport McMoRan Copper & Gold Inc. United States
+157.30.85.0/24  Freeport McMoRan Copper & Gold Inc. United States
+157.96.22.0/24  AstraZeneca UK Limited United Kingdom
+163.157.0.0/23  SKF Dataservice AB Sweden
+166.49.128.0/17 Communications Networking Services United Kingdom
+167.184.183.0/24    BAX GLOBAL United States
+167.184.184.0/21    BAX GLOBAL United States
+167.184.192.0/21    BAX GLOBAL United States
+167.184.200.0/23    BAX GLOBAL United States
+167.184.202.0/24    BAX GLOBAL United States
+193.29.5.0/24   Heraeus infosystems GmbH Germany
+193.38.168.0/23 Mars Chocolate UK Limited United Kingdom
+193.41.42.0/24  Economic and Social Committee Belgium
+193.103.192.0/20    Muenchener Rueckversicherungs AG Germany
+193.141.192.0/19    Renesas Electronics Europe GmbH, Duesseldorf (formerly known as NEC Electronics) Germany
+193.176.232.0/24    AGIS Zorgverzekeringen NV. Netherlands
+194.13.142.0/23 AGIS Zorgverzekeringen NV. Netherlands
+194.26.68.0/24  CEVA Logistics Headoffice B.V. Netherlands
+194.34.80.0/24  AstraZeneca PLC United Kingdom
+194.39.63.0/24  SMS Siemag AG Germany
+194.43.0.0/16   AKER BUSINESS SERVICES AS United Kingdom
+194.45.52.0/22  Symrise Gmbh & Co KG Germany
+194.50.160.0/24 Hyundai Motor Europe GmbH Germany
+194.53.224.0/19 KEMA International B.V. Netherlands
+194.74.80.0/21  PROVIDER United Kingdom
+194.74.104.0/21 PROVIDER United Kingdom
+194.76.40.0/24  BT GERMANY Germany
+194.104.120.0/22    AGIS Zorgverzekeringen NV. Netherlands
+194.110.204.0/24    Dreher Sorgyarak Zrt. United Kingdom
+194.145.115.0/24    Stryker SA Switzerland
+194.213.64.0/19 British Telecommunications plc Sweden
+195.66.70.0/24  KIA Motors Europe GmbH Germany
+195.99.64.0/20  PROVIDER United Kingdom
+195.100.0.0/16  British Telecommunications plc Sweden
+195.163.0.0/16  British Telecommunications plc Sweden
+195.171.36.0/22 PROVIDER United Kingdom
+195.182.96.0/19 British Telecommunications plc European Union
+203.129.222.0/23    Software Technology Parks of India India
+208.161.224.0/19    Savvis United States
+208.164.0.0/21  Savvis United States
+212.8.160.0/19  British Telecommunications plc European Union
+212.21.192.0/19 British Telecommunications plc Spain
+212.31.192.0/19 British Telecommunications plc Spain
+212.41.128.0/19 British Telecommunications plc Spain
+212.49.128.0/18 British Telecommunications plc Spain
+212.108.0.0/19  British Telecommunications plc Spain
+212.127.0.0/19  British Telecommunications plc United Kingdom
+212.162.192.0/18    British Telecommunications plc United Kingdom
+212.163.0.0/16  British Telecommunications plc Spain
+213.9.128.0/17  British Telecommunications plc Spain
+213.15.0.0/16   British Telecommunications plc Sweden
+213.31.0.0/16   British Telecommunications plc Belgium
+213.137.160.0/19    British Telecommunications plc European Union
+213.194.0.0/18  British Telecommunications plc Spain
+213.236.64.0/18 British Telecommunications plc Netherlands
+217.30.16.0/20  Global Telephone & Telecommunication S.A. (GT&T) Belgium
+
+
+ Virgin AS5089
+5.150.0.0/20    London Grid for Learning Trust United Kingdom
+5.150.32.0/20   London Grid for Learning Trust United Kingdom
+5.150.64.0/24   London Grid for Learning Trust United Kingdom
+5.150.65.0/24   London Grid for Learning Trust United Kingdom
+5.150.66.0/24   London Grid for Learning Trust United Kingdom
+5.150.67.0/24   London Grid for Learning Trust United Kingdom
+5.150.68.0/24   London Grid for Learning Trust United Kingdom
+5.150.69.0/24   London Grid for Learning Trust United Kingdom
+5.150.70.0/24   London Grid for Learning Trust United Kingdom
+5.150.71.0/24   London Grid for Learning Trust United Kingdom
+5.150.72.0/24   London Grid for Learning Trust United Kingdom
+5.150.73.0/24   London Grid for Learning Trust United Kingdom
+5.175.56.0/23   Briskona Ltd United Kingdom
+31.25.0.0/23    NYnet infrastructure United Kingdom
+31.25.2.0/23    NYCC Schools United Kingdom
+31.25.4.0/22    NYnet Ltd United Kingdom
+37.72.112.0/21  NYnet Ltd United Kingdom
+46.226.120.0/24 Netshield Enterprise Services Limited United Kingdom
+62.30.0.0/15    Virgin Media Limited United Kingdom
+62.30.0.0/16    Virgin Media Limited United Kingdom
+62.31.0.0/16    Virgin Media Limited United Kingdom
+62.252.0.0/14   Virgin Media Limited United Kingdom
+62.252.0.0/17   Virgin Media Limited United Kingdom
+62.252.128.0/17 Virgin Media Limited United Kingdom
+62.254.0.0/17   Virgin Media Limited United Kingdom
+62.254.128.0/17 Virgin Media Limited United Kingdom
+62.255.0.0/17   Virgin Media Limited United Kingdom
+62.255.128.0/17 Virgin Media Limited United Kingdom
+77.96.0.0/13    Virgin Media Limited United Kingdom
+77.96.0.0/16    Virgin Media Limited United Kingdom
+77.98.0.0/15    Virgin Media Limited United Kingdom
+77.99.128.0/18  Virgin Media Limited United Kingdom
+77.100.0.0/15   Virgin Media Limited United Kingdom
+77.100.0.0/18   Virgin Media Limited United Kingdom
+77.102.0.0/15   Virgin Media Limited United Kingdom
+80.0.0.0/13 Virgin Media Limited United Kingdom
+80.0.0.0/15 Virgin Media Limited United Kingdom
+80.1.0.0/16 Virgin Media Limited United Kingdom
+80.2.0.0/15 Virgin Media Limited United Kingdom
+80.3.0.0/16 Virgin Media Limited United Kingdom
+80.4.0.0/15 Virgin Media Limited United Kingdom
+80.6.0.0/15 Virgin Media Limited United Kingdom
+80.93.192.0/20  Kinetic Centres Limited United Kingdom
+80.192.0.0/14   Virgin Media Limited United Kingdom
+80.192.0.0/15   Virgin Media Limited United Kingdom
+80.194.0.0/15   Virgin Media Limited United Kingdom
+80.235.128.0/17 Virgin Media Limited United Kingdom
+80.247.48.0/24  M&G Investment Management Ltd - NTL Telewest ISP United Kingdom
+81.96.0.0/12    Virgin Media Limited United Kingdom
+81.96.0.0/14    Virgin Media Limited United Kingdom
+81.100.0.0/14   Virgin Media Limited United Kingdom
+81.104.0.0/14   Virgin Media Limited United Kingdom
+81.108.0.0/14   Virgin Media Limited United Kingdom
+82.0.0.0/11 Virgin Media Limited United Kingdom
+82.0.0.0/13 Virgin Media Limited United Kingdom
+82.8.0.0/13 Virgin Media Limited United Kingdom
+82.16.0.0/13    Virgin Media Limited United Kingdom
+82.24.0.0/13    Virgin Media Limited United Kingdom
+82.32.0.0/12    Virgin Media Limited United Kingdom
+82.32.0.0/15    Virgin Media Limited United Kingdom
+82.32.0.0/17    Virgin Media Limited United Kingdom
+82.33.64.0/18   Virgin Media Limited United Kingdom
+82.34.0.0/15    Virgin Media Limited United Kingdom
+82.35.0.0/17    Virgin Media Limited United Kingdom
+82.36.0.0/15    Virgin Media Limited United Kingdom
+82.36.64.0/18   Virgin Media Limited United Kingdom
+82.36.128.0/18  Virgin Media Limited United Kingdom
+82.37.128.0/18  Virgin Media Limited United Kingdom
+82.38.0.0/15    Virgin Media Limited United Kingdom
+82.39.0.0/17    Virgin Media Limited United Kingdom
+82.39.128.0/17  Virgin Media Limited United Kingdom
+82.40.0.0/15    Virgin Media Limited United Kingdom
+82.42.0.0/15    Virgin Media Limited United Kingdom
+82.44.0.0/15    Virgin Media Limited United Kingdom
+82.46.128.0/17  Virgin Media Limited United Kingdom
+82.46.128.0/18  Virgin Media Limited United Kingdom
+82.46.192.0/18  Virgin Media Limited United Kingdom
+82.47.0.0/18    Virgin Media Limited United Kingdom
+83.141.116.0/24 Imagine Telecommunications Ltd Ireland
+85.31.168.0/24  IPLAY Operation United Kingdom
+86.0.0.0/11 Virgin Media Limited United Kingdom
+86.0.0.0/13 Virgin Media Limited United Kingdom
+86.0.0.0/14 Virgin Media Limited United Kingdom
+86.0.0.0/15 Virgin Media Limited United Kingdom
+86.5.0.0/16 Virgin Media Limited United Kingdom
+86.6.0.0/16 Virgin Media Limited United Kingdom
+86.8.0.0/13 Virgin Media Limited United Kingdom
+86.8.0.0/16 Virgin Media Limited United Kingdom
+86.10.0.0/16    Virgin Media Limited United Kingdom
+86.12.0.0/16    Virgin Media Limited United Kingdom
+86.16.0.0/13    Virgin Media Limited United Kingdom
+86.21.0.0/16    Virgin Media Limited United Kingdom
+86.23.0.0/17    Virgin Media Limited United Kingdom
+86.23.0.0/18    Virgin Media Limited United Kingdom
+86.23.64.0/18   Virgin Media Limited United Kingdom
+86.31.192.0/18  Virgin Media Limited United Kingdom
+91.209.142.0/24 JHCS Ltd United Kingdom
+91.212.18.0/24  First4iT Ltd United Kingdom
+91.216.55.0/24  London Borough Of Lambeth United Kingdom
+91.216.112.0/24 Reach and Swaffham Prior Community Broadband United Kingdom
+91.216.246.0/24 London Borough of Southwark United Kingdom
+91.223.10.0/24  Cobbetts LLP United Kingdom
+91.229.222.0/24 LN Communications Limited United Kingdom
+91.229.223.0/24 LN Communications Limited United Kingdom
+91.234.214.0/24 LONDON BOROUGH OF ISLINGTON United Kingdom
+91.240.17.0/24  Kelway Limited United Kingdom
+92.232.0.0/15   Virgin Media Limited United Kingdom
+92.234.0.0/16   Virgin Media Limited United Kingdom
+92.236.0.0/14   Virgin Media Limited United Kingdom
+94.173.0.0/16   Virgin Media Limited United Kingdom
+94.174.0.0/15   Virgin Media Limited United Kingdom
+ROA Signed and Invalid94.199.232.0/21   Imerja Ltd United Kingdom
+ROA Signed and Valid94.199.234.0/23 Imerja Ltd Complex Hosting Centre United Kingdom
+ROA Signed and Valid94.199.239.0/24 Imerja Ltd Complex Hosting Centre United Kingdom
+137.213.240.0/21    Steria Limited United Kingdom
+141.8.222.0/24  Liberata IT Solutions Limited Sheffield SBTC United Kingdom
+145.225.16.0/22 Linde AG Germany
+145.225.23.0/24 Linde AG Germany
+147.189.64.0/22 Eurtunnel United Kingdom
+158.234.250.0/24    Logica PLC United Kingdom
+158.234.251.0/24    Logica PLC United Kingdom
+159.157.228.0/24    Invensys Systems, Inc. United States
+163.164.0.0/16  LogicaCMG Outsourcing Services Ltd United Kingdom
+163.164.13.0/24 LogicaCMG Outsourcing Services Ltd United Kingdom
+163.164.19.0/24 LogicaCMG Outsourcing Services Ltd United Kingdom
+163.164.64.0/18 LogicaCMG Outsourcing Services Ltd United Kingdom
+163.164.249.0/24    LogicaCMG Outsourcing Services Ltd United Kingdom
+170.9.192.0/23  Keystone International, Inc. United States
+170.9.192.0/24  Keystone International, Inc. United States
+170.9.193.0/24  Keystone International, Inc. United States
+171.33.200.0/21 LGfL Internet O United Kingdom
+171.33.208.0/21 LGfL Internet P United Kingdom
+176.62.208.0/21 NYnet Ltd United Kingdom
+185.4.156.0/22  NYnet Ltd United Kingdom
+185.28.88.0/24  Oakford Internet Services United Kingdom
+193.16.150.0/24 Hallmark Cards PLC United Kingdom
+193.38.64.0/18  Virgin Media Limited United Kingdom
+193.39.32.0/19  Virgin Media Limited United Kingdom
+193.39.182.0/23 London Borough of Bexley United Kingdom
+193.39.182.0/24 London Borough of Bexley United Kingdom
+193.111.230.0/24    Print Copy Systems Ltd United Kingdom
+193.111.231.0/24    Print Copy Systems Ltd United Kingdom
+193.189.80.0/24 Unicredit Global Information Services S.C.P.A. United Kingdom
+193.189.81.0/24 Unicredit Global Information Services S.C.P.A. United Kingdom
+193.192.32.0/23 Brand Communications Ltd. United Kingdom
+193.193.96.0/19 Virgin Media Limited United Kingdom
+193.238.234.0/24    Pinewood Technologies Plc United Kingdom
+193.238.235.0/24    Pinewood Technologies Plc United Kingdom
+194.34.150.0/24 CAMBRIDGESHIRE-CONSTABULARY United Kingdom
+194.35.72.0/24  Astrium Services BC s.r.o. United Kingdom
+194.53.175.0/24 Heerema Hartlepool Limited United Kingdom
+194.60.88.0/21  European Regional Registry United Kingdom
+194.61.162.0/23 Newcastle City Council United Kingdom
+194.61.173.0/24 Newcastle City Council United Kingdom
+194.61.174.0/24 Newcastle City Council United Kingdom
+194.62.210.0/24 Astrium Services BC s.r.o. United Kingdom
+194.105.149.0/24    Kelway Limited United Kingdom
+194.117.128.0/19    Virgin Media Limited United Kingdom
+194.117.146.0/24    INTERNET United Kingdom
+194.168.0.0/16  Virgin Media Limited United Kingdom
+194.169.129.0/24    Thomson Directories Ltd United Kingdom
+194.169.130.0/24    Thomson Directories Ltd United Kingdom
+194.169.131.0/24    Thomson Directories Ltd United Kingdom
+194.169.132.0/22    Thomson Directories Ltd United Kingdom
+194.169.136.0/21    Thomson Directories Ltd United Kingdom
+194.169.144.0/22    Thomson Directories Ltd United Kingdom
+194.169.148.0/23    Thomson Directories Ltd United Kingdom
+194.169.150.0/24    Thomson Directories Ltd United Kingdom
+194.169.151.0/24    Thomson Directories Ltd United Kingdom
+194.169.152.0/22    Thomson Directories Ltd United Kingdom
+194.169.156.0/23    Thomson Directories Ltd United Kingdom
+194.169.158.0/24    Thomson Directories Ltd United Kingdom
+194.227.208.0/23    Oxleas NHS Trust United Kingdom
+195.149.69.0/24 W & J Linney ltd. United Kingdom
+195.149.121.0/24    Comtec (Europe) Ltd United Kingdom
+195.188.0.0/16  Virgin Media Limited United Kingdom
+212.24.64.0/19  Virgin Media Limited United Kingdom
+212.43.174.0/24 Virgin Media Limited United Kingdom
+212.250.0.0/16  Virgin Media Limited United Kingdom
+213.48.0.0/16   Virgin Media Limited United Kingdom
+213.48.0.0/17   Virgin Media Limited United Kingdom
+213.48.128.0/17 Virgin Media Limited United Kingdom
+213.81.0.0/17   Virgin Media Limited United Kingdom
+213.104.0.0/14  Virgin Media Limited United Kingdom
+213.104.0.0/16  Virgin Media Limited United Kingdom
+213.105.0.0/16  Virgin Media Limited United Kingdom
+213.106.0.0/16  Virgin Media Limited United Kingdom
+213.106.0.0/17  Virgin Media Limited United Kingdom
+213.106.128.0/17    Virgin Media Limited United Kingdom
+213.107.0.0/16  Virgin Media Limited United Kingdom
+213.107.0.0/17  Virgin Media Limited United Kingdom
+213.107.128.0/17    Virgin Media Limited United Kingdom
+213.148.32.0/19 Virgin Media Limited United Kingdom
+217.137.0.0/16  Virgin Media Limited United Kingdom
+
+ TalkTalk AS43234
+92.0.0.0/13 Carphone Warehouse Broadband Services United Kingdom
+92.0.0.0/14 Carphone Warehouse Broadband Services United Kingdom
+92.4.0.0/14 Carphone Warehouse Broadband Services United Kingdom
+92.8.0.0/13 Carphone Warehouse Broadband Services United Kingdom
+92.8.0.0/14 Carphone Warehouse Broadband Services United Kingdom
+92.12.0.0/14    Carphone Warehouse Broadband Services United Kingdom
+92.31.0.0/16    TalkTalk Communications Limited United Kingdom
+
+ Sky AS5607
+2.120.0.0/13    British Sky Broadcasting Limited United Kingdom
+2.216.0.0/13    British Sky Broadcasting Limited United Kingdom
+5.64.0.0/13 British Sky Broadcasting Limited United Kingdom
+46.64.0.0/20    Sky Broadband United Kingdom
+46.64.32.0/20   Sky Broadband United Kingdom
+46.64.56.0/21   Sky Broadband United Kingdom
+46.64.80.0/20   Sky Broadband United Kingdom
+46.64.96.0/20   Sky Broadband United Kingdom
+46.64.112.0/20  Sky Broadband United Kingdom
+46.64.128.0/17  Sky Broadband United Kingdom
+46.65.136.0/21  Sky Broadband United Kingdom
+46.65.232.0/23  Sky Broadband United Kingdom
+78.86.36.0/23   Sky Broadband United Kingdom
+78.86.96.0/21   Sky Broadband United Kingdom
+78.86.104.0/23  Sky Broadband United Kingdom
+78.86.112.0/20  Sky Broadband United Kingdom
+78.86.128.0/22  Sky Broadband United Kingdom
+78.86.140.0/22  Sky Broadband United Kingdom
+78.86.160.0/20  Sky Broadband United Kingdom
+78.86.208.0/22  Sky Broadband United Kingdom
+78.86.216.0/21  Sky Broadband United Kingdom
+78.86.236.0/22  Sky Broadband United Kingdom
+78.105.0.0/20   Sky Broadband United Kingdom
+78.105.158.0/23 Sky Broadband United Kingdom
+78.105.176.0/21 Sky Broadband United Kingdom
+78.105.188.0/22 Sky Broadband United Kingdom
+78.105.204.0/23 Sky Broadband United Kingdom
+78.105.212.0/22 Sky Broadband United Kingdom
+78.105.216.0/21 Sky Broadband United Kingdom
+78.105.228.0/22 Sky Broadband United Kingdom
+78.105.244.0/22 Sky Broadband United Kingdom
+78.105.252.0/23 Sky Broadband United Kingdom
+87.80.0.0/15    British Sky Broadcasting Limited United Kingdom
+90.192.0.0/11   British Sky Broadcasting Limited United Kingdom
+91.103.34.0/24  The Cloud Networks Limited United Kingdom
+93.96.68.0/22   Sky Broadband United Kingdom
+93.96.72.0/22   Sky Broadband United Kingdom
+93.96.76.0/22   Sky Broadband United Kingdom
+93.96.80.0/20   Sky Broadband United Kingdom
+93.96.96.0/21   Sky Broadband United Kingdom
+93.96.164.0/22  Sky Broadband United Kingdom
+93.96.168.0/23  Sky Broadband United Kingdom
+93.96.192.0/21  Sky Broadband United Kingdom
+93.96.200.0/21  Sky Broadband United Kingdom
+93.96.208.0/20  Sky Broadband United Kingdom
+93.96.224.0/21  Sky Broadband United Kingdom
+94.0.0.0/12 British Sky Broadcasting Limited United Kingdom
+94.119.8.0/21   The Cloud Networks Limited United Kingdom
+94.192.16.0/23  Sky Broadband United Kingdom
+94.192.18.0/23  Sky Broadband United Kingdom
+94.192.20.0/23  Sky Broadband United Kingdom
+94.192.28.0/22  Sky Broadband United Kingdom
+94.192.32.0/21  Sky Broadband United Kingdom
+94.192.40.0/23  Sky Broadband United Kingdom
+94.192.44.0/23  Sky Broadband United Kingdom
+94.192.56.0/21  Sky Broadband United Kingdom
+94.192.96.0/23  Sky Broadband United Kingdom
+94.192.98.0/23  Sky Broadband United Kingdom
+94.192.100.0/22 Sky Broadband United Kingdom
+94.192.104.0/21 Sky Broadband United Kingdom
+94.192.114.0/23 Sky Broadband United Kingdom
+94.192.120.0/22 Sky Broadband United Kingdom
+94.192.124.0/23 Sky Broadband United Kingdom
+94.192.126.0/23 Sky Broadband United Kingdom
+94.192.228.0/22 Sky Broadband United Kingdom
+94.192.236.0/22 Sky Broadband United Kingdom
+94.193.8.0/21   Sky Broadband United Kingdom
+94.193.50.0/23  Sky Broadband United Kingdom
+94.193.94.0/23  Sky Broadband United Kingdom
+94.193.96.0/21  Sky Broadband United Kingdom
+94.193.112.0/22 Sky Broadband United Kingdom
+94.193.128.0/23 Sky Broadband United Kingdom
+94.193.130.0/23 Sky Broadband United Kingdom
+94.193.132.0/22 Sky Broadband United Kingdom
+94.193.136.0/21 Sky Broadband United Kingdom
+94.193.152.0/21 Sky Broadband United Kingdom
+94.193.168.0/22 Sky Broadband United Kingdom
+94.193.172.0/22 Sky Broadband United Kingdom
+94.193.176.0/20 Sky Broadband United Kingdom
+94.193.208.0/22 Sky Broadband United Kingdom
+94.193.212.0/23 Sky Broadband United Kingdom
+94.193.216.0/23 Sky Broadband United Kingdom
+94.193.222.0/23 Sky Broadband United Kingdom
+94.193.246.0/23 Sky Broadband United Kingdom
+94.193.252.0/23 Sky Broadband United Kingdom
+94.194.0.0/21   Sky Broadband United Kingdom
+94.194.8.0/21   Sky Broadband United Kingdom
+94.194.24.0/21  Sky Broadband United Kingdom
+94.194.56.0/21  Sky Broadband United Kingdom
+94.194.72.0/21  Sky Broadband United Kingdom
+94.194.92.0/22  Sky Broadband United Kingdom
+94.194.104.0/21 Sky Broadband United Kingdom
+94.194.112.0/21 Sky Broadband United Kingdom
+94.194.120.0/22 Sky Broadband United Kingdom
+94.194.160.0/20 Sky Broadband United Kingdom
+94.194.176.0/21 Sky Broadband United Kingdom
+94.194.186.0/23 Sky Broadband United Kingdom
+94.194.188.0/22 Sky Broadband United Kingdom
+94.194.192.0/21 Sky Broadband United Kingdom
+94.194.200.0/21 Sky Broadband United Kingdom
+94.194.212.0/22 Sky Broadband United Kingdom
+94.194.216.0/21 Sky Broadband United Kingdom
+94.194.224.0/22 Sky Broadband United Kingdom
+94.194.232.0/23 Sky Broadband United Kingdom
+94.194.240.0/21 Sky Broadband United Kingdom
+94.194.248.0/21 Sky Broadband United Kingdom
+94.195.4.0/22   Sky Broadband United Kingdom
+94.195.10.0/23  Sky Broadband United Kingdom
+94.195.14.0/23  Sky Broadband United Kingdom
+94.195.18.0/23  Sky Broadband United Kingdom
+94.195.20.0/23  Sky Broadband United Kingdom
+94.195.22.0/23  Sky Broadband United Kingdom
+94.195.28.0/23  Sky Broadband United Kingdom
+94.195.32.0/21  Sky Broadband United Kingdom
+94.195.40.0/21  Sky Broadband United Kingdom
+94.195.52.0/22  Sky Broadband United Kingdom
+94.195.56.0/21  Sky Broadband United Kingdom
+94.195.64.0/21  Sky Broadband United Kingdom
+94.195.80.0/22  Sky Broadband United Kingdom
+94.195.98.0/23  Sky Broadband United Kingdom
+94.195.100.0/22 Sky Broadband United Kingdom
+94.195.104.0/21 Sky Broadband United Kingdom
+94.195.132.0/22 Sky Broadband United Kingdom
+94.195.136.0/21 Sky Broadband United Kingdom
+94.195.144.0/21 Sky Broadband United Kingdom
+94.195.152.0/21 Sky Broadband United Kingdom
+94.195.160.0/23 Sky Broadband United Kingdom
+94.195.164.0/22 Sky Broadband United Kingdom
+94.195.168.0/22 Sky Broadband United Kingdom
+94.195.172.0/22 Sky Broadband United Kingdom
+94.195.176.0/21 Sky Broadband United Kingdom
+94.195.192.0/21 Sky Broadband United Kingdom
+94.195.212.0/22 Sky Broadband United Kingdom
+94.195.216.0/21 Sky Broadband United Kingdom
+94.195.224.0/21 Sky Broadband United Kingdom
+94.195.232.0/22 Sky Broadband United Kingdom
+94.195.236.0/23 Sky Broadband United Kingdom
+94.195.240.0/22 Sky Broadband United Kingdom
+94.195.244.0/23 Sky Broadband United Kingdom
+94.195.248.0/23 Sky Broadband United Kingdom
+94.195.250.0/23 Sky Broadband United Kingdom
+94.195.252.0/23 Sky Broadband United Kingdom
+151.224.0.0/13  British Sky Broadcasting Limited United Kingdom
+176.24.0.0/14   British Sky Broadcasting Limited United Kingdom
+176.248.0.0/13  British Sky Broadcasting Limited United Kingdom
+188.220.0.0/21  Sky Broadband United Kingdom
+188.220.8.0/23  Sky Broadband United Kingdom
+188.220.12.0/22 Sky Broadband United Kingdom
+188.220.24.0/21 Sky Broadband United Kingdom
+188.220.40.0/21 Sky Broadband United Kingdom
+188.220.48.0/20 Sky Broadband United Kingdom
+188.220.68.0/22 Sky Broadband United Kingdom
+188.220.80.0/21 Sky Broadband United Kingdom
+188.220.88.0/22 Sky Broadband United Kingdom
+188.220.92.0/22 Sky Broadband United Kingdom
+188.220.96.0/21 Sky Broadband United Kingdom
+188.220.112.0/20    Sky Broadband United Kingdom
+188.220.128.0/21    Sky Broadband United Kingdom
+188.220.136.0/22    Sky Broadband United Kingdom
+188.220.160.0/20    Sky Broadband United Kingdom
+188.220.176.0/20    Sky Broadband United Kingdom
+188.220.192.0/22    Sky Broadband United Kingdom
+188.220.196.0/22    Sky Broadband United Kingdom
+188.220.204.0/22    Sky Broadband United Kingdom
+188.220.208.0/21    Sky Broadband United Kingdom
+188.220.220.0/22    Sky Broadband United Kingdom
+188.220.224.0/21    Sky Broadband United Kingdom
+188.220.232.0/22    Sky Broadband United Kingdom
+188.220.254.0/23    Sky Broadband United Kingdom
+188.221.0.0/20  Sky Broadband United Kingdom
+188.221.16.0/21 Sky Broadband United Kingdom
+188.221.28.0/22 Sky Broadband United Kingdom
+188.221.32.0/22 Sky Broadband United Kingdom
+188.221.36.0/22 Sky Broadband United Kingdom
+188.221.48.0/20 Sky Broadband United Kingdom
+188.221.64.0/19 Sky Broadband United Kingdom
+188.221.96.0/20 Sky Broadband United Kingdom
+188.221.128.0/21    Sky Broadband United Kingdom
+188.221.144.0/21    Sky Broadband United Kingdom
+188.221.156.0/22    Sky Broadband United Kingdom
+188.221.160.0/21    Sky Broadband United Kingdom
+188.221.192.0/21    Sky Broadband United Kingdom
+188.221.224.0/20    Sky Broadband United Kingdom
+188.221.240.0/23    Sky Broadband United Kingdom
+188.221.244.0/22    Sky Broadband United Kingdom
+188.221.248.0/21    Sky Broadband United Kingdom
+188.222.24.0/21 Sky Broadband United Kingdom
+188.222.32.0/19 Sky Broadband United Kingdom
+188.222.64.0/20 Sky Broadband United Kingdom
+188.222.80.0/22 Sky Broadband United Kingdom
+188.222.104.0/21    Sky Broadband United Kingdom
+188.222.128.0/19    Sky Broadband United Kingdom
+188.222.176.0/21    Sky Broadband United Kingdom
+188.222.184.0/21    Sky Broadband United Kingdom
+188.222.224.0/20    Sky Broadband United Kingdom
+188.222.240.0/21    Sky Broadband United Kingdom
+188.222.248.0/21    Sky Broadband United Kingdom
+188.223.16.0/20 Sky Broadband United Kingdom
+188.223.44.0/23 Sky Broadband United Kingdom
+188.223.48.0/20 Sky Broadband United Kingdom
+188.223.64.0/20 Sky Broadband United Kingdom
+188.223.80.0/21 Sky Broadband United Kingdom
+188.223.116.0/22    Sky Broadband United Kingdom
+188.223.200.0/21    Sky Broadband United Kingdom
+188.223.232.0/21    Sky Broadband United Kingdom
+
+ Vodafone AS3209
+2.200.0.0/13    Vodafone GmbH Germany
+5.45.0.0/21 p2 systems GmbH Germany
+23.56.220.0/22  Akamai International, BV United States
+23.57.32.0/20   Akamai International, BV United States
+23.57.48.0/20   Akamai International, BV United States
+23.57.64.0/23   Akamai International, BV United States
+47.64.0.0/13    Vodafone D2 GmbH United States
+47.73.0.0/16    Vodafone Group Services GmbH United States
+47.73.196.0/24  Vodafone Group Services GmbH United States
+47.73.236.0/24  Vodafone Group Services GmbH United States
+47.73.240.0/22  Vodafone Group Services GmbH United States
+62.213.128.0/19 Vodafone Group Services GmbH United Kingdom
+62.213.128.0/23 Vodafone Group Services GmbH United Kingdom
+62.213.130.0/24 Vodafone Group Services GmbH United Kingdom
+62.213.132.0/22 Vodafone Group Services GmbH United Kingdom
+62.213.156.0/22 Vodafone Group Services GmbH United Kingdom
+77.24.0.0/15    Vodafone GmbH Germany
+80.84.0.0/20    Vodafone Deutschland GmbH Germany
+80.226.0.0/16   Vodafone GmbH Germany
+82.82.0.0/15    Vodafone GmbH Germany
+84.56.0.0/13    Vodafone GmbH Germany
+84.58.192.0/18  ARCOR AG Germany
+84.59.0.0/21    ARCOR AG Germany
+85.118.248.0/21 Aug. Winkhaus GmbH & Co. KG Germany
+85.205.31.0/24  Vodafone Group Services Germany
+85.205.97.0/24  Vodafone Group Services Germany
+85.238.224.0/19 Vodafone GmbH Germany
+87.239.143.0/24 Martin Kluge United States
+88.64.0.0/12    Vodafone GmbH Germany
+88.79.161.0/24  Vodafone GmbH Germany
+90.186.0.0/15   Vodafone GmbH Germany
+91.194.222.0/23 DATASEC Information Factory GmbH Germany
+91.198.113.0/24 Inconso AG Germany
+91.208.45.0/24  Landeshauptstadt Stuttgart Germany
+91.208.193.0/24 Cortex Software GmbH Germany
+91.211.40.0/22  Schwarze/Riedel Gbr Germany
+91.213.48.0/24  CarSolution GmbH Germany
+91.217.165.0/24 Amedes Medizinische Dienstleistungen GmbH Germany
+91.217.188.0/24 Rotkaeppchen Sektkellerei GmbH Germany
+91.231.220.0/24 VOEB-ZVD Bank fuer Zahlungsverkehrsdienstleistungen GmbH Germany
+92.72.0.0/13    Vodafone GmbH Germany
+92.208.0.0/14   Vodafone GmbH Germany
+92.212.0.0/15   Vodafone GmbH Germany
+92.214.0.0/15   Vodafone GmbH Germany
+92.216.0.0/14   Vodafone GmbH Germany
+93.179.185.0/24 IP addresses assigned to DSL network Italy
+94.216.0.0/13   Vodafone GmbH Germany
+109.40.0.0/13   Vodafone GmbH Germany
+109.84.0.0/15   Vodafone GmbH Germany
+134.98.0.0/16   RIPE NCC Germany
+134.99.0.0/16   Heinrich-Heine-Universitaet Duesseldorf Germany
+139.7.0.0/16    Vodafone D2 GmbH Germany
+145.253.0.0/16  Vodafone GmbH Germany
+145.254.0.0/16  Vodafone GmbH Germany
+146.60.0.0/16   Vodafone GmbH Germany
+149.235.0.0/16  Opentext Software GmbH Germany
+149.237.200.0/24    EPLAN Software & Service GmbH & Co.KG Germany
+151.189.0.0/16  Vodafone D2 GmbH Germany
+161.195.141.0/24    ARAMARK United States
+176.94.0.0/17   Vodafone GmbH Germany
+176.94.128.0/17 Vodafone GmbH Germany
+176.95.0.0/16   Vodafone D2 GmbH Germany
+178.0.0.0/12    Vodafone GmbH Germany
+185.2.132.0/22  Vodafone GmbH Germany
+185.18.128.0/22 p2 systems GmbH Germany
+185.21.124.0/22 Boreus Rechenzentrum GmbH Germany
+185.31.4.0/22   SEA-NET GmbH Germany
+188.96.0.0/12   Vodafone GmbH Germany
+192.31.22.0/24  SAS Institute, Inc. United States
+192.108.31.0/24 CoCoNet Computer-Communication Networks GmbH European Union
+192.109.80.0/24 Torex Retail Solutions GmbH Germany
+192.109.95.0/24 Digi International GmbH Germany
+192.109.176.0/24    Wind Internethaus GmbH Germany
+192.129.60.0/24 esacom GmbH Germany
+192.170.1.0/24  Hewlett-Packard Company United States
+193.22.3.0/24   SCHUFA Holding AG Germany
+193.22.8.0/22   e.bootis AG Germany
+193.22.120.0/21 Controlware GmbH Kommunikationssysteme Germany
+193.25.240.0/22 Vodafone GmbH Germany
+193.25.244.0/23 Vodafone GmbH Germany
+193.25.247.0/24 Vodafone GmbH Germany
+193.27.22.0/24  ITK Rheinland Germany
+193.28.80.0/24  Eberspaecher Climate Control Systems Germany
+193.28.241.0/24 Anstalt fuer Kommunale Datenverarbeitung in Bayern (AKDB) Germany
+193.29.115.0/24 GESIS Gesellschaft fuer Informationssysteme mbH Germany
+193.29.116.0/24 GESIS Gesellschaft fuer Informationssysteme mbH Germany
+193.30.93.0/24  Plansecur Management GmbH & Co. Marketing und Service KG Germany
+193.30.133.0/24 Hans Christoph Splittgerber Germany
+193.31.128.0/19 Wayss & Freytag Ingenieurbau AG Germany
+193.34.207.0/24 Bayerische Landesamt fuer Statistik und Datenverarbeitung Germany
+193.37.131.0/24 ATU Germany
+193.46.182.0/24 Kroll Ontrack GmbH Germany
+193.96.230.0/24 Procom GmbH, Aachen Germany
+193.97.176.0/21 InvestitionsBank des Landes Brandenburg, Potsdam Germany
+193.98.40.0/22  Deutsche Babcock-Borsig AG, Berlin Germany
+193.99.175.0/24 Rigips GmbH Germany
+193.100.229.0/24    Torex Retail Solutions GmbH Germany
+193.100.230.0/24    Torex Retail Solutions GmbH Germany
+193.100.231.0/24    Torex Retail Solutions GmbH Germany
+193.102.158.0/24    MRM Medienservice Rhein Main GmbH & Co. KG Germany
+193.102.159.0/24    MRM Medienservice Rhein Main GmbH & Co. KG Germany
+193.102.173.0/24    Verlagsgruppe Rhein Main GmbH + Co. KG Germany
+193.104.49.0/24 Viastore Systems GmbH Germany
+193.105.68.0/24 b.i.t.s. Bavaria Informations Technologie Service GmbH Germany
+193.105.103.0/24    Mittelrhein-Verlag GmbH Germany
+193.105.147.0/24    Salzgitter Mannesmann Praezisrohr GmbH Germany
+193.138.68.0/24 EEX European Energy Exchange AG Germany
+193.164.159.0/24    psb intralogistics GmbH Germany
+193.168.0.0/24  August Storck KG Germany
+193.188.158.0/24    CENIT AG Germany
+193.188.159.0/24    CENIT AG Germany
+193.189.114.0/23    communicode GmbH & Co.KG Germany
+193.202.25.0/24 WPP Deutschland Holding GmbH European Union
+193.202.26.0/24 WPP Deutschland Holding GmbH European Union
+193.202.28.0/24 WPP Deutschland Holding GmbH European Union
+193.202.30.0/24 WPP Deutschland Holding GmbH European Union
+193.202.127.0/24    Xsite GmbH Germany
+193.219.105.0/24    Union Betriebs GmbH Germany
+193.228.146.0/24    WESTDEUTSCHE ALLGEMEINE Zeitungsverlagsgesellschaft E.Brost & J.Funke GmbH u.Co.KG Germany
+194.0.216.0/24  Kassenaerztliche Vereinigung Niedersachsen Germany
+194.0.232.0/24  Taxi Berlin TZB GmbH Germany
+194.24.242.0/23 Reiff Verlag KG Germany
+194.39.112.0/24 KUMAGroup Holding GmbH Germany
+194.45.165.0/24 WPP Deutschland Holding GmbH & Co. KG Germany
+194.49.73.0/24  Emitec Gesellschaft fuer Emissionstechnologie mbH Germany
+194.50.182.0/24 Prinovis Ahrensburg Gmbh Germany
+194.55.112.0/20 Deutscher Sparkassen Verlag GmbH Germany
+194.76.187.0/24 TMG GmbH & Co. KG Germany
+194.99.111.0/24 Siemens AG Germany
+194.99.119.0/24 Kampmann GmbH Germany
+194.113.173.0/24    Lotto Rheinland-Pfalz GmbH Germany
+194.113.247.0/24    Landeshauptstadt Duesseldorf Germany
+194.120.126.0/24    Wind Internethaus GmbH, VS-Villingen Germany
+194.126.198.0/24    LANSOL GmbH Germany
+194.127.96.0/24 PSI logistics GmbH Germany
+194.139.4.0/24  Continental AG Germany
+194.145.254.0/24    AdCapital AG Germany
+194.156.179.0/24    European Regional Registry Germany
+194.169.239.0/24    Coolspot AG Germany
+194.173.47.0/24 DATAGROUP Koeln GmbH Germany
+194.173.70.0/24 Computer Communications Networks GmbH Germany
+194.180.196.0/24    up to data professional services GmbH Germany
+194.180.199.0/24    loglevel GmbH Germany
+194.187.184.0/22    JMC-Technologieberatung GmbH Germany
+195.50.128.0/18 Vodafone GmbH Germany
+195.66.83.0/24  BREMER RECHENZENTRUM GMBH Germany
+195.66.155.0/24 Net Mobile AG public services Germany
+195.95.220.0/23 ocon Office Concept GmbH Germany
+195.138.223.0/24    VeriFone GmbH Germany
+195.158.128.0/19    Vodafone GmbH Germany
+195.182.45.0/24 CENIT AG Germany
+195.182.60.0/24 Helvetia Schweizerische Versicherungsgesellschaft AG Germany
+195.182.196.0/23    Toshiba Europe GmbH Germany
+195.200.70.0/23 Bayerische Landesamt fuer Statistik und Datenverarbeitung Germany
+195.226.200.0/24    concat AG Bensheim Germany
+195.233.50.0/24 Vodafone Group Services Germany
+195.233.51.0/24 Vodafone Group Services Germany
+195.233.53.0/24 Vodafone Group Services Germany
+195.233.151.0/24    Vodafone Group Services Germany
+212.8.0.0/24    GONICUS GmbH Germany
+212.8.1.0/24    GONICUS GmbH Germany
+212.8.2.0/24    GONICUS GmbH Germany
+212.8.4.0/24    GONICUS GmbH Germany
+212.8.6.0/24    GONICUS GmbH Germany
+212.8.7.0/24    GONICUS Germany
+212.8.8.0/21    GONICUS Germany
+212.8.16.0/20   GONICUS Germany
+212.144.0.0/16  Vodafone GmbH Germany
+213.23.0.0/16   Vodafone GmbH Germany
+213.23.40.0/21  Vodafone GmbH Germany
+213.23.132.0/23 Vodafone GmbH Germany
+213.23.185.0/24 Vodafone GmbH Germany
+213.23.232.0/24 Vodafone GmbH Germany
+213.128.96.0/19 Vodafone GmbH
+
+ EE AS12576 AS29328
+2.24.0.0/13 ORANGE HOME UK PLC United Kingdom
+2.24.0.0/16 Orange WBC Broadband United Kingdom
+2.25.0.0/16 Orange WBC Broadband United Kingdom
+2.26.0.0/16 Orange WBC Broadband United Kingdom
+2.27.0.0/16 Orange WBC Broadband United Kingdom
+2.28.0.0/16 Orange WBC Broadband United Kingdom
+2.29.0.0/16 Orange WBC Broadband United Kingdom
+2.30.0.0/16 Orange WBC Broadband United Kingdom
+2.31.0.0/16 Orange WBC Broadband United Kingdom
+31.64.0.0/11    Orange Personal Communications Services United Kingdom
+31.64.0.0/13    Orange Personal Communications Services United Kingdom
+31.72.0.0/13    Orange PCS GPRS Services United Kingdom
+31.80.0.0/13    Orange PCS GPRS Services United Kingdom
+31.88.0.0/13    Orange PCS GPRS Services United Kingdom
+31.96.0.0/11    T-Mobile (UK) Limited United Kingdom
+31.116.0.0/15   T-Mobile (UK) Limited United Kingdom
+31.118.0.0/15   T-Mobile (UK) Limited United Kingdom
+31.120.0.0/15   T-Mobile (UK) Limited United Kingdom
+31.122.0.0/15   T-Mobile (UK) Limited United Kingdom
+31.124.0.0/15   T-Mobile (UK) Limited United Kingdom
+46.23.16.0/20   ViaCloud WLL Bahrain
+82.192.96.0/22  Deutsche Telekom UK Ltd United Kingdom
+87.237.16.0/21  ORANGE HOME UK PLC United Kingdom
+87.252.108.0/22 Pre Mobile Packet Data Block 1 Bahrain
+87.252.112.0/21 ViaCloud WLL Bahrain
+87.252.120.0/22 Pre Mobile Packet Data Block 4 Bahrain
+89.192.0.0/14   Orange Personal Communications Services United Kingdom
+95.144.0.0/13   ORANGE HOME UK PLC United Kingdom
+95.144.0.0/16   OUK Broadband IP Stream United Kingdom
+95.145.0.0/16   OUK Broadband IP Stream United Kingdom
+95.146.0.0/16   OUK Broadband IP Stream United Kingdom
+95.147.0.0/16   OUK Broadband IP Stream United Kingdom
+95.148.0.0/16   OUK Broadband IP Stream United Kingdom
+95.149.0.0/16   OUK Broadband IP Stream United Kingdom
+95.150.0.0/16   OUK Broadband IP Stream United Kingdom
+95.151.0.0/16   OUK Broadband IP Stream United Kingdom
+109.249.0.0/16  Orange Personal Communications Services United Kingdom
+149.254.0.0/16  T-Mobile (UK) Limited United Kingdom
+149.254.24.0/21 T-Mobile(UK) Public APN, Gi United Kingdom
+149.254.212.0/24    T-Mobile(UK) Internet, 3rd Party, UM, LBS, Officelink United Kingdom
+178.96.0.0/12   T-Mobile (UK) Limited United Kingdom
+193.35.128.0/20 Orange Personal Communications Services Ltd. United Kingdom
+193.36.78.0/23  Orange Personal Communications Services Ltd. United Kingdom
+193.36.80.0/22  Orange Personal Communications Services Ltd. United Kingdom
+194.36.212.0/24 Orange Personal Communications Services Ltd. United Kingdom
+194.36.214.0/24 Orange Personal Communications Services Ltd. United Kingdom
+194.36.215.0/24 Orange Personal Communications Services Ltd. United Kingdom
+213.205.192.0/18    Orange Personal Communications Services United Kingdom
+82.192.112.0/23 T-Mobile (UK) Limited United Kingdom
+82.192.113.0/24 T-Mobile (UK) Limited United Kingdom
+
+ O2 AS56460
+46.233.64.0/18  Telefonica UK Limited United Kingdom
